@@ -10,14 +10,23 @@
 
 ---
 
-## **Table of Contents**
-### Backend Engineering
+# **Table of Contents**
+
+## Programming Concepts
+#### /concurrency :
+* [Concurrency Explained](/programming-concepts/concurrency/concurrency-explained.md)
+
+#### /dynamic-programming :
+* [Dynamic Programming Explained](/programming-concepts/dynamic-programming/dp.md)
+
+
+## Backend Engineering
 #### / :
 * [What is backend engineering?](/backend-engineering/what-is-backend-engineering.md)
 * [Hosting Backend With DB explained](/backend-engineering/hosting-backend-with-db.md)
 
 
-### internet :
+## internet :
 #### / :
 * [How does the internet work?](/internet/how-does-the-internet-work.md)
 * [Http Explained](/internet/http-explained.md)
@@ -27,14 +36,26 @@
 * [LocalHost Explained](/internet/localhost.md)
 
 
-### Spring
+## Spring
 
 #### / :
 * [What is Spring?](/spring/what-is-spring.md)
 
+#### /core :
+* [Spring core Features](/spring/core/features.md)
+* [Types of Injections](/spring/core/types-of-injections.md)
 
-### Security
+#### /core/annoations
+* [Common Annotations Used](/spring/core/annotations/common-annotations.md)
+
+#### /mvc :
+* [Spring MVC core Features](/spring/mvc/features.md)
+
+#### /boot :
+* [Spring Boot Features](/spring/boot/features.md)
+
+## Security
 
 #### / :
-* [JwT's Explained](/security/jwt-explained.md)
+* [JWT's Explained](/security/jwt-explained.md)
 * [Api Keys Explained](/security/apiKeys-explained.md)
