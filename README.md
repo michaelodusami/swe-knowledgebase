@@ -22,6 +22,7 @@
 * [Domain Names Explained](/backend-engineering/internet/domain-names.md)
 * [Hosting Explained](/backend-engineering/internet/hosting-explained.md)
 * [Webpages vs Websites vs Web Servers vs Search Engine](/backend-engineering/internet/webpage-vs-site-vs-more.md)
+* [LocalHost Explained](/backend-engineering/internet/localhost.md)
 ### Spring
 
 
