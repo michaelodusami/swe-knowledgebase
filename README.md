@@ -14,10 +14,14 @@
 ### Backend Engineering
 #### / :
 * [What is backend engineering?](/backend-engineering/what-is-backend-engineering.md)
+* [Hosting Backend With DB explained](/backend-engineering/hosting-backend-with-db.md)
 
 #### /internet :
-* [How does the internet work?](/backend-engineering/how-does-the-internet-work.md)
-
+* [How does the internet work?](/backend-engineering/internet/how-does-the-internet-work.md)
+* [Http Explained](/backend-engineering/internet/http-explained.md)
+* [Domain Names Explained](/backend-engineering/internet/domain-names.md)
+* [Hosting Explained](/backend-engineering/internet/hosting-explained.md)
+* [Webpages vs Websites vs Web Servers vs Search Engine](/backend-engineering/internet/webpage-vs-site-vs-more.md)
 ### Spring
 
 
