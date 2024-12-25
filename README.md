@@ -19,6 +19,12 @@
 #### /dynamic-programming :
 * [Dynamic Programming Explained](/programming-concepts/dynamic-programming/dp.md)
 
+#### /recursion: 
+* [What is Recursion](/programming-concepts/recursion/recursion.md)
+* [Figuring out the base case](/programming-concepts/recursion/base-case.md)
+
+#### /trees
+* [What are trees?](/programming-concepts/trees/trees.md)
 
 ## Backend Engineering
 #### / :
